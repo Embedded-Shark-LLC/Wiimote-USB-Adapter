@@ -1,13 +1,5 @@
-# kicad-project-template
-Blank template for a generic KiCAD project
+# Wii Bluetooth Sensor Bar
 
-## Important version control information
-This project uses submodules to keep libraries up-to-date.  The following commands must be used when cloning or to update the submodule with the latest commits:
+Wii Bluetooth adapter for Dolphin or other emulators over USB
 
-To clone the repository:
-
-```git clone --recurse-submodules <repo>```
-
-To update the submodules:
-
-```git submodule update --remote```
+Support for sensor bar USB passthrough or onboard infrared LEDs to act as a sensor bar
