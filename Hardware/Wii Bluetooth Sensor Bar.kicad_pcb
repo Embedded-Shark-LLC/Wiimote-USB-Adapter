@@ -764,6 +764,9 @@
   (gr_line (start 155 78) (end 155 109) (layer "Edge.Cuts") (width 0.1) (tstamp aaea9072-70ae-47af-8f62-c5f71110d30d))
   (gr_line (start 153 111) (end 125 111) (layer "Edge.Cuts") (width 0.1) (tstamp b6625352-c2d8-4f5b-a547-de89419dc478))
   (gr_arc (start 155 109) (mid 154.414214 110.414214) (end 153 111) (layer "Edge.Cuts") (width 0.1) (tstamp bbd2aac4-ccde-4745-ad2c-c064bed28c8c))
+  (gr_text "Wii BT Sensor Bar\nRevision A\nBenjamin Owen\n2022-07-08" (at 146.5 99.75 270) (layer "B.SilkS") (tstamp 4e9def18-c84f-4823-b92d-1b3dee29ba94)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
 
   (segment (start 131.725 92.525) (end 130.4 93.85) (width 0.25) (layer "F.Cu") (net 1) (tstamp 6c9b159b-0a42-4489-bd34-473b6e154e76))
   (segment (start 143 90.025) (end 140.5 92.525) (width 0.25) (layer "F.Cu") (net 1) (tstamp 8bb70db1-5dd8-4d98-b308-7c72750cf8c4))
