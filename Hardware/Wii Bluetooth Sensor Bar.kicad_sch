@@ -1491,7 +1491,7 @@
     (uuid cb65760f-2d83-45ce-9a0c-0348210c8df1)
     (property "Reference" "SW1" (id 0) (at 149.86 60.6892 0))
     (property "Value" "SW_Push" (id 1) (at 149.86 63.2261 0))
-    (property "Footprint" "Button_Switch_SMD:SW_SPST_EVPBF" (id 2) (at 149.86 62.23 0)
+    (property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645" (id 2) (at 149.86 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 149.86 62.23 0)
@@ -1743,7 +1743,7 @@
       (reference "R5") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/cb65760f-2d83-45ce-9a0c-0348210c8df1"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_EVPBF")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_PTS645")
     )
     (path "/f80c0469-32e9-4925-a676-945ba1955c35"
       (reference "U1") (unit 1) (value "J27H002") (footprint "Connector_Other:J27H002")
