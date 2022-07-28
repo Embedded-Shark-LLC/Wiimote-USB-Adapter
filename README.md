@@ -2,4 +2,4 @@
 
 Wii Bluetooth adapter for Dolphin or other emulators over USB
 
-Support for sensor bar USB passthrough or onboard infrared LEDs to act as a sensor bar
+Support for sensor bar USB passthrough or external infrared LEDs to act as a sensor bar
