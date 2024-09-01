@@ -178,7 +178,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/331d5e2e-bd09-4ccb-a74c-61472807895e")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -228,7 +228,7 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R101"
-			(at -2.2 0 360)
+			(at -2.2 0 0)
 			(layer "F.SilkS")
 			(uuid "e866db33-2065-4f81-8f6d-e4876055d527")
 			(effects
@@ -288,7 +288,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/af3f4fdf-aca8-4bdc-9853-e73bcac819fc")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -502,7 +502,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/4fd5f072-9a56-46e3-8e4d-ec887e6b00cb")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -612,7 +612,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a7670866-51e7-4ab3-b882-8bb4b621a9e7")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -826,7 +826,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/b45cb82c-59bf-4b8f-b9a0-e05aa13504ba")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -940,7 +940,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e07ff0cd-daa0-49c4-8433-f5040705267b")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
@@ -1154,7 +1154,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/a9184224-cc36-4d2d-b30e-9af7c8d23de6")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1264,7 +1264,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0dd5b7d1-04f4-4846-be35-e3b14f030d61")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
@@ -1474,7 +1474,7 @@
 		(property ki_fp_filters "SOT?223* TO?263* TO?252* TO?220*")
 		(path "/715e3e8a-e184-437c-9ec3-0e4d3440ab10")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.85 3.41)
@@ -1688,7 +1688,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C102"
-			(at 2.3 0 360)
+			(at 2.3 0 0)
 			(layer "F.SilkS")
 			(uuid "adda3593-0704-4cc2-ab8c-32d7c7edfcf4")
 			(effects
@@ -1748,7 +1748,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f2be0754-fca9-4711-b5ab-1ea552c0dfc5")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -1959,7 +1959,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d77e9dd3-8303-4cc7-8190-504d2d9065bc")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -2235,7 +2235,7 @@
 		(property ki_fp_filters "USB*")
 		(path "/d1a047cc-50d9-4fee-8f95-33d8d8fa9f7a")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.81 13.1)
@@ -2686,7 +2686,7 @@
 		(descr "Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "fuse handsolder")
 		(property "Reference" "F101"
-			(at 0 1.4 270)
+			(at 0 1.4 -90)
 			(layer "F.SilkS")
 			(uuid "9c632620-9a47-4971-affc-dc6dc54b9a8d")
 			(effects
@@ -2750,7 +2750,7 @@
 		(property ki_fp_filters "*Fuse*")
 		(path "/7b454aff-23b9-493f-af72-f97e047f9089")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 0.91)
@@ -2971,7 +2971,7 @@
 		)
 		(path "/cb65760f-2d83-45ce-9a0c-0348210c8df1")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.23 -3.23)
@@ -3270,7 +3270,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/859d2e8e-5344-434c-b808-001ea742b7bb")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -3481,7 +3481,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/87452f09-499a-4f35-b15a-c28cbb915dd1")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -3749,7 +3749,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2a30ae8d-13b9-4416-9c90-d80568ec8d4a")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.29 1.08)
@@ -4120,7 +4120,7 @@
 		)
 		(path "/f80c0469-32e9-4925-a676-945ba1955c35")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -6.8 17.2)
@@ -4542,7 +4542,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/47b04a34-f95d-4e4a-8e8d-864404433541")
 		(sheetname "Root")
-		(sheetfile "Wii-Bluetooth-Sensor-Bar.kicad_sch")
+		(sheetfile "Wiimote-USB-Adapter.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.5 3)
@@ -5013,7 +5013,7 @@
 		(uuid "bbd2aac4-ccde-4745-ad2c-c064bed28c8c")
 	)
 	(gr_text "${PROJECTNAME}\nREV.${REVISION}\n${COMPANY}\n${ISSUE_DATE}"
-		(at 152.7 106.3 0)
+		(at 154.5 106 0)
 		(layer "B.SilkS" knockout)
 		(uuid "4e9def18-c84f-4823-b92d-1b3dee29ba94")
 		(effects

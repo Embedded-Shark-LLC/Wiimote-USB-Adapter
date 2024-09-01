@@ -3858,7 +3858,7 @@
 			(uuid "79708010-6200-4314-b277-e81b4e056db8")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "#PWR0117")
 					(unit 1)
@@ -3928,7 +3928,7 @@
 			(uuid "5057e72a-f95f-40c1-a984-28b39655ed1c")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "C101")
 					(unit 1)
@@ -4127,7 +4127,7 @@
 			(uuid "46cc498e-c938-4542-9f73-1a3042a0854c")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "#PWR0120")
 					(unit 1)
@@ -4192,7 +4192,7 @@
 			(uuid "4578d2a9-16d9-42a6-8abd-af7baa13ccba")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "#PWR0119")
 					(unit 1)
@@ -4326,7 +4326,7 @@
 			)
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "H103")
 					(unit 1)
@@ -4511,7 +4511,7 @@
 			)
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "H102")
 					(unit 1)
@@ -4576,7 +4576,7 @@
 			(uuid "c1b4090f-b508-41c9-bbc9-8592488cb956")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "#PWR0103")
 					(unit 1)
@@ -5181,7 +5181,7 @@
 			(uuid "f749f922-6579-44d5-95fc-110da8e36e6f")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "R102")
 					(unit 1)
@@ -5245,7 +5245,7 @@
 			)
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "H104")
 					(unit 1)
@@ -5312,7 +5312,7 @@
 			(uuid "3dc8f014-934b-45a3-afb5-8fa54727d6af")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "R101")
 					(unit 1)
@@ -5506,7 +5506,7 @@
 			(uuid "8bc655ca-9d40-4730-9b87-17b682869f4c")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "#PWR0113")
 					(unit 1)
@@ -5781,7 +5781,7 @@
 			(uuid "0fdb4bf9-7ed9-42a0-8f50-c36ad82cc040")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "#PWR0108")
 					(unit 1)
@@ -6206,7 +6206,7 @@
 			(uuid "a7691cd3-ea9a-4022-a7f2-12cbac812873")
 		)
 		(instances
-			(project "Wii-Bluetooth-Sensor-Bar"
+			(project "Wiimote-USB-Adapter"
 				(path "/a4660f26-bbbb-4da3-94bf-afe64ec9a53e"
 					(reference "#PWR0110")
 					(unit 1)
