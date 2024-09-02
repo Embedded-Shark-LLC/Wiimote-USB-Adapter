@@ -31,3 +31,4 @@ fp-info-cache
 
 # FreeCAD files
 *.FCStd1
+*.FCBak
