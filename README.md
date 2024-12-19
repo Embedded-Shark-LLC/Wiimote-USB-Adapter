@@ -3,11 +3,6 @@ This is a Wiimote adapter to wirelessly connect remotes for Dolphin or other emu
 
 Includes support for sensor bar USB passthrough (power only) or external infrared LEDs to act as a standalone sensor bar.
 
-# USB-2242
-This is a project to integrate a Logitech&trade; Unifying Receiver internally for laptops.  Specifically, I designed this to fit an M.2 2242 slot (M+B key) for my Thinkpad X1C6 (replacing the WWAN card).
-
-If space permits, any low-power USB device (under 500 mA) can be plugged into this adapter.
-
 ## Features
 - USB-C power/data input
 - USB-A port for external sensor bars
